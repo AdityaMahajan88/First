@@ -1,3 +1,4 @@
-#First
-This is my first Git Repository
+# First
+This is my first Git Repository.
+<br>
 Aditya mahajan.
